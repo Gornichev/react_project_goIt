@@ -44,4 +44,3 @@ const painting = (
     </div>
 )
 
-ReactDOM.render(painting,root)
