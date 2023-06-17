@@ -1,4 +1,4 @@
-// import React from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
@@ -41,6 +41,7 @@ const painting = (
         <h1>Name : {data.name}</h1>
         <p>experience : {data.experience}</p>
         <p>year: {data.year}</p>
+        <button type={"button"}>Stroke</button>
     </div>
 )
-
+ReactDOM.render(painting,root)
