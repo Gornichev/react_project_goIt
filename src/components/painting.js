@@ -14,11 +14,9 @@ export default function Painting ({ url = defaultImage, name = "Boy", experience
     );
 };
 
-
-
 Painting.propTypes = {
-  experience: PropTypes.any,
+  experience: PropTypes.number,
   name: PropTypes.string,
   url: PropTypes.any,
-  year: PropTypes.string
+  year: PropTypes.number
 }
