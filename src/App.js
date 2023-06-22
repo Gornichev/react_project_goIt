@@ -1,13 +1,14 @@
 import Painting from "./components/painting"
-import data from "./data"
+import dataDogs from "./data"
 
-export default function App () {
+export default function App (props) {
+
     return <div>
         <Painting
-            url={data.url}
-            name={data.name}
-            experience={data.experience}
-            year={data.year}
+            url={dataDogs[1].url}
+            name={dataDogs[1].name}
+            experience={dataDogs[1].experience}
+            year={dataDogs[1].year}
         />
     </div>
 }

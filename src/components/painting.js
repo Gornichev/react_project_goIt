@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 import defaultImage from "./cvergshnaucer-devochka-768x384.jpg";
 
 export default function Painting ({ url = defaultImage, name = "Boy", experience, year = "not specified" }){
@@ -15,3 +16,9 @@ export default function Painting ({ url = defaultImage, name = "Boy", experience
 
 
 
+Painting.propTypes = {
+  experience: PropTypes.any,
+  name: PropTypes.string,
+  url: PropTypes.any,
+  year: PropTypes.string
+}
