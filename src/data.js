@@ -8,21 +8,24 @@ const dataDogs = [
         name: "KOKA",
         experience: 89,
         year: 6,
-        id : 1
+        id : 1,
+        superProperties : 10
     },
     {
         url: "https://www.petstopdog.info/wp-content/uploads/black-Giant-Schnauzer1-e1569341125906-750x500.jpg",
         name: "Marty",
-        experience: 32,
+        experience: 23,
         year: 8,
         id : 2,
+        superProperties : 5
     },
     {
         url: "https://petsi.net/images/dogbreed/big/skotch-teryer.jpg",
         name: "Orky",
-        experience: 45,
+        experience: 14,
         year: 3,
-        id : 3
+        id : 3,
+        superProperties : 7
     },
 
 ]
