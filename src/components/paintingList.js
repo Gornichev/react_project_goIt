@@ -1,4 +1,4 @@
-import PropTypes, {shape, string} from 'prop-types';
+import PropTypes, {shape, string,number} from 'prop-types';
 import Painting from "./painting";
 
 function paintingList ({items}) {
