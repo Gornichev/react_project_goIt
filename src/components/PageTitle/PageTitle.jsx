@@ -1,5 +1,5 @@
 
-import  {PropTypes} from 'prop-types'
+import  PropTypes from 'prop-types'
 import css from "./PageTitle.module.sass"
 
 export const PageTitle = ({text}) => {
