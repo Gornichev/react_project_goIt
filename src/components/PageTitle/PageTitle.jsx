@@ -1,5 +1,4 @@
-
-import  PropTypes from 'prop-types'
+import PropTypes from 'prop-types'
 import css from "./PageTitle.module.sass"
 
 export const PageTitle = ({text}) => {
@@ -9,5 +8,5 @@ export const PageTitle = ({text}) => {
 }
 
 PageTitle.propTypes = {
-  text: PropTypes.string.isRequired
+    text: PropTypes.string.isRequired
 }

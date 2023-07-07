@@ -4,4 +4,13 @@
   border: 2px black solid;
 }
 
+.eventTitle {
+  font-size: 26px;
+  color: aquamarine;
+}
+.eventTitle .eventList {
+  font-size: 20px;
+  color: indianred;
+}
+
 /*# sourceMappingURL=Event.module.css.map */

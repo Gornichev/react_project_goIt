@@ -1,37 +1,37 @@
 [
   {
-    "name" : "metal-powder",
-    "location" :"https://pokeapi.co/api/v2/pokemon/132/encounters",
-    "type" : "free",
-    "base_experience" : 101,
-    "time" : {
-      "start" : "2022-02-18T14-30:00",
-      "end" : "2023-02-12T14-20:00"
+    "name": "metal-powder",
+    "location": "https://132/encounters",
+    "type": "free",
+    "base_experience": 101,
+    "time": {
+      "start": "2022-02-18T14-30:00",
+      "end": "2023-02-12T14-20:00"
     }
   },
   {
-    "name" : "Koka",
-    "location" :"https://pokeapi.co/api/v2/pokemon/132/encounters",
-    "type" : "busy",
-    "base_experience" : 101,
-    "time" : {
-      "start" : "2022-02-18T14-30:00",
-      "end" : "2023-02-12T14-20:00"
+    "name": "Koka",
+    "location": "https://pokeapi.co/api",
+    "type": "busy",
+    "base_experience": 101,
+    "time": {
+      "start": "2022-02-18T14-30:00",
+      "end": "2023-02-12T14-20:00"
     }
   },
   {
-    "name" : "Power-Boy",
-    "location" :"https://pokeapi.co/api/v2/pokemon/132/encounters",
-    "type" : "free",
-    "base_experience" : 101,
-    "time" : {
-      "start" : "2010-02-18T14-30:00",
-      "end" : "2013-02-12T14-20:00"
+    "name": "Power-Boy",
+    "location": "https://pokeapi.co",
+    "type": "free",
+    "base_experience": 131,
+    "time": {
+      "start": "2010-02-18T14-30:00",
+      "end": "2013-02-12T14-20:00"
     }
   },
   {
     "name": "Chemical man",
-    "location": "https://pokeapi.co/api/v2/pokemon/132/encounters",
+    "location": "https://pokeapi",
     "type": "free",
     "base_experience": 101,
     "time": {
@@ -41,9 +41,9 @@
   },
   {
     "name": "Porky",
-    "location": "https://pokeapi.co/api/v2/pokemon/132/encounters",
+    "location": "https:api/v2/pokemon/132",
     "type": "free",
-    "base_experience": 101,
+    "base_experience": 1,
     "time": {
       "start": "2010-02-18T14-30:00",
       "end": "2013-02-12T14-20:00"
@@ -51,9 +51,9 @@
   },
   {
     "name": "Holly gey",
-    "location": "https://pokeapi.co/api/v2/pokemon/132/encounters",
+    "location": "https://pokeapi.co/api",
     "type": "free",
-    "base_experience": 101,
+    "base_experience": 10,
     "time": {
       "start": "2010-02-18T14-30:00",
       "end": "2013-02-12T14-20:00"
