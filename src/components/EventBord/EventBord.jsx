@@ -6,6 +6,7 @@ export const EventBord = ({events}) => {
     return (
         <div className={css.eventBord}>
             {events.map(({name,type,location,base_experience,time}) => (
+
                 <Event key={name}
                        name={name}
                        type={type}

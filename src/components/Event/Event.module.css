@@ -2,15 +2,27 @@
   position: relative;
   border-radius: 4px;
   border: 2px black solid;
+  padding: 20px;
 }
 
 .eventTitle {
   font-size: 26px;
-  color: aquamarine;
+  color: #0d0b34;
+  text-align: center;
+  margin: 5px 0;
 }
-.eventTitle .eventList {
-  font-size: 20px;
+
+.eventList {
+  font-size: 15px;
   color: indianred;
+  list-style: none;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+.eventList li {
+  margin-bottom: 7px;
+  color: #0d0b34;
 }
 
 /*# sourceMappingURL=Event.module.css.map */
